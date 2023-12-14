@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dec-chame/static/css/main.850309ad.css",
+    "main.js": "/dec-chame/static/js/main.31a51cfe.js",
+    "static/js/787.aa2a524c.chunk.js": "/dec-chame/static/js/787.aa2a524c.chunk.js",
+    "index.html": "/dec-chame/index.html",
+    "main.850309ad.css.map": "/dec-chame/static/css/main.850309ad.css.map",
+    "main.31a51cfe.js.map": "/dec-chame/static/js/main.31a51cfe.js.map",
+    "787.aa2a524c.chunk.js.map": "/dec-chame/static/js/787.aa2a524c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850309ad.css",
+    "static/js/main.31a51cfe.js"
+  ]
+}
